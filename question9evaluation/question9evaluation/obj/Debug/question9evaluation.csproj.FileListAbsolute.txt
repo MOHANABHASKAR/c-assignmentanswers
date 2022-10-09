@@ -1,0 +1,8 @@
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\bin\Debug\question9evaluation.exe.config
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\bin\Debug\question9evaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\bin\Debug\question9evaluation.pdb
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\obj\Debug\question9evaluation.csproj.AssemblyReference.cache
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\obj\Debug\question9evaluation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\obj\Debug\question9evaluation.csproj.CoreCompileInputs.cache
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\obj\Debug\question9evaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\question9evaluation\question9evaluation\obj\Debug\question9evaluation.pdb
