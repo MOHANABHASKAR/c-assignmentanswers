@@ -1,0 +1,8 @@
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\bin\Debug\question 6 evaluation.exe.config
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\bin\Debug\question 6 evaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\bin\Debug\question 6 evaluation.pdb
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\obj\Debug\question 6 evaluation.csproj.AssemblyReference.cache
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\obj\Debug\question 6 evaluation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\obj\Debug\question 6 evaluation.csproj.CoreCompileInputs.cache
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\obj\Debug\question 6 evaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\question 6 evaluation\question 6 evaluation\obj\Debug\question 6 evaluation.pdb
