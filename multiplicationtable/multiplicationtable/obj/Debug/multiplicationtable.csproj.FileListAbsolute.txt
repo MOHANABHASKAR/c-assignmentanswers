@@ -1,0 +1,8 @@
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\obj\Debug\multiplicationtable.csproj.AssemblyReference.cache
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\obj\Debug\multiplicationtable.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\obj\Debug\multiplicationtable.csproj.CoreCompileInputs.cache
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\bin\Debug\multiplicationtable.exe.config
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\bin\Debug\multiplicationtable.exe
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\bin\Debug\multiplicationtable.pdb
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\obj\Debug\multiplicationtable.exe
+C:\Users\mohanabhaskar.parla\source\repos\multiplicationtable\multiplicationtable\obj\Debug\multiplicationtable.pdb
