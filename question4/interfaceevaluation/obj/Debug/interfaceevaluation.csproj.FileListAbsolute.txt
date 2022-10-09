@@ -1,0 +1,8 @@
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\obj\Debug\interfaceevaluation.csproj.AssemblyReference.cache
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\obj\Debug\interfaceevaluation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\obj\Debug\interfaceevaluation.csproj.CoreCompileInputs.cache
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\bin\Debug\interfaceevaluation.exe.config
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\bin\Debug\interfaceevaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\bin\Debug\interfaceevaluation.pdb
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\obj\Debug\interfaceevaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\interfaceevaluation\interfaceevaluation\obj\Debug\interfaceevaluation.pdb
