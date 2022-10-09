@@ -1,0 +1,8 @@
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\obj\Debug\arrayaevaluation.csproj.AssemblyReference.cache
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\obj\Debug\arrayaevaluation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\obj\Debug\arrayaevaluation.csproj.CoreCompileInputs.cache
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\bin\Debug\arrayaevaluation.exe.config
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\bin\Debug\arrayaevaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\bin\Debug\arrayaevaluation.pdb
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\obj\Debug\arrayaevaluation.exe
+C:\Users\mohanabhaskar.parla\source\repos\arrayaevaluation\arrayaevaluation\obj\Debug\arrayaevaluation.pdb
