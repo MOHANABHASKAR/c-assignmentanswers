@@ -1,0 +1,8 @@
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\bin\Debug\question2.exe.config
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\bin\Debug\question2.exe
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\bin\Debug\question2.pdb
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\obj\Debug\question2.csproj.AssemblyReference.cache
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\obj\Debug\question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\obj\Debug\question2.csproj.CoreCompileInputs.cache
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\obj\Debug\question2.exe
+C:\Users\mohanabhaskar.parla\source\repos\question2\question2\obj\Debug\question2.pdb
